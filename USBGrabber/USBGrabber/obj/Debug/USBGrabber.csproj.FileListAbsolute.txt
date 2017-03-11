@@ -1,0 +1,9 @@
+c:\users\darksandside_d$$\documents\visual studio 2015\Projects\USBGrabber\USBGrabber\bin\Debug\USBGrabber.exe.config
+c:\users\darksandside_d$$\documents\visual studio 2015\Projects\USBGrabber\USBGrabber\bin\Debug\USBGrabber.exe
+c:\users\darksandside_d$$\documents\visual studio 2015\Projects\USBGrabber\USBGrabber\bin\Debug\USBGrabber.pdb
+c:\users\darksandside_d$$\documents\visual studio 2015\Projects\USBGrabber\USBGrabber\obj\Debug\USBGrabber.csprojResolveAssemblyReference.cache
+c:\users\darksandside_d$$\documents\visual studio 2015\Projects\USBGrabber\USBGrabber\obj\Debug\USBGrabber.Form1.resources
+c:\users\darksandside_d$$\documents\visual studio 2015\Projects\USBGrabber\USBGrabber\obj\Debug\USBGrabber.Properties.Resources.resources
+c:\users\darksandside_d$$\documents\visual studio 2015\Projects\USBGrabber\USBGrabber\obj\Debug\USBGrabber.csproj.GenerateResource.Cache
+c:\users\darksandside_d$$\documents\visual studio 2015\Projects\USBGrabber\USBGrabber\obj\Debug\USBGrabber.exe
+c:\users\darksandside_d$$\documents\visual studio 2015\Projects\USBGrabber\USBGrabber\obj\Debug\USBGrabber.pdb
